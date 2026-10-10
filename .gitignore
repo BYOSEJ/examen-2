@@ -1,0 +1,16 @@
+**/node_modules/
+**/.next/
+**/out/
+**/target/
+
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
